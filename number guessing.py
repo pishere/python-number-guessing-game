@@ -1,5 +1,6 @@
 import random
 import time
+
 a=random.randint(1,50)
 i=0
 x=0
